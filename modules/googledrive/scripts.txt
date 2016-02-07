@@ -1,0 +1,2 @@
+modules/googledrive/edit.js
+modules/googledrive/OpenedFilesDialog.js

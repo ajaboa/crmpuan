@@ -1,0 +1,15 @@
+.gd-googledrive-icon{
+	background-image:url('images/googledrive.png') !important;
+}
+.fileButton{
+	display: inline-block;
+    margin: 2px;
+}
+
+..x-form-item-label{
+	display: block;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 100%;
+}

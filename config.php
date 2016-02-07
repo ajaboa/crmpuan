@@ -1,0 +1,39 @@
+<?php
+/**
+ * Group-Office configuration file.
+ * Visit https://www.group-office.com/wiki/Configuration_file for available values
+ */
+$config["debug"]=false;
+$config["default_timezone"]='America/Mexico_City';
+$config["default_currency"]='$';
+$config["default_time_format"]='H:i';
+$config["default_decimal_separator"]='.';
+$config["default_thousands_separator"]=',';
+$config["register_user_groups"]='Internal';
+$config["register_visible_user_groups"]='Internal';
+$config["host"]='/';
+$config["full_url"]='https://puan.ddns.net/';
+$config["title"]='Puan Group Office';
+$config["webmaster_email"]='devnull@installatron.com';
+$config["noreply_email"]='noreply@example.com';
+$config["root_path"]='C:/xampp/htdocs/';
+$config["tmpdir"]='D:/xampp/htdocs/tmp/';
+$config["db_host"]='localhost';
+$config["db_name"]='db_name';
+$config["db_user"]='db_user';
+$config["db_pass"]='password';
+$config["db_port"]='3306';
+$config["file_storage_path"]='C:/cygwin64/home/data/datayn4t0eiv/';
+$config["language"]='es';
+$config["zpush2_max_attachmentsize"]='104857600';
+$config["max_file_size"]='104857600';
+$config["googledrive_oauth2_client_id"]='129048921391-09fsubn2849apcd03t51n8fuiec4cukm.apps.googleusercontent.com';
+$config["googledrive_oauth2_client_secret"]='Mi6KmCjCcSkQ57C-lZGRDOtG';
+$config["googledrive_simple_api_key"]='AIzaSyBgC9ch20GwNO2nMd0WtnDvTng6UT37fNA';
+$config["chat_xmpp_host"]='puan.ddns.net';
+$config["default_country"]='MX';
+$config["smtp_server"]='smtp.litograficapuan.com';
+$config["smtp_port"]='1025';
+$config["smtp_username"]='soporte@litograficapuan.com';
+$config["smtp_password"]='password';
+$config['theme']='Default';
